@@ -10,56 +10,97 @@ These notebooks are designed to be:
 
 ---
 
-## Project Structure
+## Learning Path
 
-### Basics
+Follow these sections in order:
+
+| # | Section | Folder | What You'll Learn |
+|---|---|---|---|
+| 1 | [Basics](01_basics/) | `01_basics/` | NumPy, Pandas, Matplotlib, EDA, Scikit-learn fundamentals |
+| 2 | [Supervised Learning](02_supervised-learning/) | `02_supervised-learning/` | Regression, Logistic Regression, KNN, Trees, Random Forest |
+| 3 | [Unsupervised Learning](03_unsupervised-learning/) | `03_unsupervised-learning/` | Clustering (K-Means), Dimensionality Reduction (PCA) |
+| 4 | [Cross Validation](04_cross-validation/) | `04_cross-validation/` | K-Fold, Stratified splits for reliable evaluation |
+| 5 | [Hyperparameter Tuning](05_hyperparameter-tuning/) | `05_hyperparameter-tuning/` | GridSearchCV, RandomizedSearchCV |
+| 6 | [Pipelines](06_pipelines/) | `06_pipelines/` | Chain preprocessing and models to avoid data leakage |
+
+---
+
+## 01. Basics
 
 Foundation libraries every ML practitioner needs.
 
 | Topic | Notebook | Description |
 |---|---|---|
-| [NumPy](basics/numpy/) | `learn_numpy.ipynb` | Arrays, math operations, broadcasting, linear algebra |
-| [Pandas](basics/pandas/) | `learn_pandas.ipynb` | DataFrames, data cleaning, grouping, merging |
-| [Matplotlib](basics/matplotlib/) | `learn_matplotlib.ipynb` | Line plots, scatter, bar charts, subplots, customization |
-| [EDA](basics/eda/) | `learn_eda.ipynb` | Exploratory Data Analysis workflow with a real dataset |
-| [Scikit-learn](basics/scikit-learn/) | `learn_scikit-learn.ipynb` | ML fundamentals — preprocessing, classification, regression, clustering, pipelines |
+| [NumPy](01_basics/numpy/) | `01_learn_numpy.ipynb` | Arrays, math operations, broadcasting, linear algebra |
+| [Pandas](01_basics/pandas/) | `01_learn_pandas.ipynb` | DataFrames, data cleaning, grouping, merging |
+| [Matplotlib](01_basics/matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar charts, subplots, customization |
+| [EDA](01_basics/eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow with a real dataset |
+| [Scikit-learn](01_basics/scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML fundamentals — preprocessing, classification, regression, clustering, pipelines |
 
-### Supervised Learning *(coming soon)*
+---
+
+## 02. Supervised Learning
+
+Follow this learning path in order:
+
+| # | Topic | Folder |
+|---|---|---|
+| 1 | [Regression](02_supervised-learning/01_regression/) | Linear regression, metrics |
+| 2 | [Logistic Regression](02_supervised-learning/02_logistic-regression/) | Binary and multiclass classification |
+| 3 | [Classification Metrics](02_supervised-learning/03_classification-metrics/) | Precision, recall, F1, ROC-AUC |
+| 4 | [KNN](02_supervised-learning/04_knn/) | K-Nearest Neighbors |
+| 5 | [Decision Trees](02_supervised-learning/05_decision-trees/) | Tree-based models |
+| 6 | [Random Forest](02_supervised-learning/06_random-forest/) | Ensemble of decision trees |
+
+**Future Topics:**
+| Topic | Folder |
+|---|---|
+| [SVM](02_supervised-learning/svm/) | Support Vector Machines |
+| [Naive Bayes](02_supervised-learning/naive-bayes/) | Probabilistic classifiers |
+
+---
+
+## 03. Unsupervised Learning *(coming soon)*
 
 | Topic | Folder |
 |---|---|
-| [Regression](supervised-learning/regression/) | Linear, polynomial, and regularized regression |
-| [Logistic Regression](supervised-learning/logistic-regression/) | Binary and multiclass classification |
-| [KNN](supervised-learning/knn/) | K-Nearest Neighbors |
-| [Decision Trees](supervised-learning/decision-trees/) | Tree-based models |
-| [Random Forest](supervised-learning/random-forest/) | Ensemble of decision trees |
-| [SVM](supervised-learning/svm/) | Support Vector Machines |
-| [Naive Bayes](supervised-learning/naive-bayes/) | Probabilistic classifiers |
-| [Classification Metrics](supervised-learning/classification-metrics/) | Precision, recall, F1, confusion matrix |
+| [K-Means](03_unsupervised-learning/k-means/) | Centroid-based clustering |
+| [PCA](03_unsupervised-learning/pca/) | Dimensionality reduction |
 
-### Unsupervised Learning *(coming soon)*
+---
+
+## 04. Cross Validation *(coming soon)*
 
 | Topic | Folder |
 |---|---|
-| [K-Means](unsupervised-learning/k-means/) | Centroid-based clustering |
-| [PCA](unsupervised-learning/pca/) | Dimensionality reduction |
+| [Cross Validation](04_cross-validation/) | K-fold, stratified splits |
 
-### Other Topics *(coming soon)*
+---
+
+## 05. Hyperparameter Tuning *(coming soon)*
 
 | Topic | Folder |
 |---|---|
-| [Cross Validation](cross-validation/) | K-fold, stratified splits |
-| [Hyperparameter Tuning](hyperparameter-tuning/) | GridSearchCV, RandomizedSearchCV |
-| [Pipelines](pipelines/) | Chaining preprocessing and models |
+| [Hyperparameter Tuning](05_hyperparameter-tuning/) | GridSearchCV, RandomizedSearchCV |
+
+---
+
+## 06. Pipelines *(coming soon)*
+
+| Topic | Folder |
+|---|---|
+| [Pipelines](06_pipelines/) | Chaining preprocessing and models |
 
 ---
 
 ## How to Use
 
 1. Clone this repository
-2. Open any notebook in Jupyter or VS Code
-3. Run the cells from top to bottom
-4. Each notebook ends with a **Cheat Sheet** for quick reference
+2. Start with **01_basics** — these are prerequisites for everything else
+3. Follow the numbered sections in order
+4. Open any notebook in Jupyter or VS Code
+5. Run the cells from top to bottom
+6. Each notebook ends with a **Cheat Sheet** for quick reference
 
 ---
 
@@ -84,8 +125,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Video Resources
 
 > *Links to recommended video tutorials will be added here.*
-
-<!-- Example:
-- [NumPy Tutorial](https://youtube.com/...)
-- [Pandas Tutorial](https://youtube.com/...)
--->
