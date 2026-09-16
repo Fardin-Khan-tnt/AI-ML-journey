@@ -4,7 +4,13 @@ A linear model for classification — despite the name, it predicts class probab
 
 This is the **second step** — transition from regression to classification problems.
 
-> 🚧 **Coming soon** — notebooks will be added as you learn this topic.
+---
+
+## Notebooks
+
+| # | Notebook | Topics |
+|---|---|---|
+| 1 | [01_logistic_regression.ipynb](01_logistic_regression.ipynb) | Binary classification, sigmoid function, decision boundary |
 
 ---
 
