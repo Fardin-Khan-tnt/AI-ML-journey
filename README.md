@@ -34,7 +34,7 @@ Foundation libraries every ML practitioner needs.
 | [NumPy](01_basics/numpy/) | `01_learn_numpy.ipynb` | Arrays, math operations, broadcasting, linear algebra |
 | [Pandas](01_basics/pandas/) | `01_learn_pandas.ipynb` | DataFrames, data cleaning, grouping, merging |
 | [Matplotlib](01_basics/matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar charts, subplots, customization |
-| [EDA](01_basics/eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow with a real dataset |
+| [Exploratory Data Analysis (EDA)](01_basics/eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow with a real dataset |
 | [Scikit-learn](01_basics/scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML fundamentals — preprocessing, classification, regression, clustering, pipelines |
 
 ---
@@ -124,4 +124,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+**Machine Learning:**
+- 📺 [Machine Learning Fundamentals](https://youtu.be/qNxrPri1V0I?si=wLAzNfoTwRvkZGAV)
+- 📺 [Machine Learning Advanced](https://youtu.be/i_LwzRVP7bg?si=Wnb6GegmNU7A7DJ1)
+
+**Individual Libraries:**
+- NumPy, Pandas, Matplotlib, Scikit-learn, and EDA video links are available in each section's README

@@ -74,4 +74,4 @@ import pandas as pd
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [Scikit-learn Full Tutorial](https://youtu.be/0B5eIE_1vpU?si=oGxEh-m_DUo5GfFM)

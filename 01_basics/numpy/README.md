@@ -41,4 +41,4 @@ import numpy as np
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [NumPy Full Tutorial](https://youtu.be/VXU4LSAQDSc?si=pyonXfB-g-i8VTTH)

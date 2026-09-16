@@ -43,4 +43,5 @@ import pandas as pd
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [Matplotlib Basics](https://youtu.be/c9vhHUGdav0?si=Y-XXsgxiQTAH-PZ1)
+- 📺 [Matplotlib Advanced](https://youtu.be/7Lc2AxiM17o?si=Sa4IarfLqmGAcaia)

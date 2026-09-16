@@ -56,6 +56,6 @@ import seaborn as sns
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [Exploratory Data Analysis (EDA) Tutorial](https://youtu.be/xi0vhXFPegw?si=wkkcv7Zt3zpLIpBd)
 
 <!-- Original tutorial from Medallion Data Science YouTube channel -->

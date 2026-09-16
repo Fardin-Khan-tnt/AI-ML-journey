@@ -52,4 +52,5 @@ import numpy as np
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [Pandas Full Tutorial](https://youtu.be/VXtjG_GzO7Q?si=AXJ3qQ8aAxX4Rj0N)
+- 📺 [Pandas Advanced Tutorial](https://youtu.be/gtjxAH8uaP0?si=MD3ndFks-iSYUsTx)
