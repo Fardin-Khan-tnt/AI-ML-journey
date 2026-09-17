@@ -85,4 +85,7 @@ r2 = r2_score(y_test, y_pred)
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [Linear Regression Tutorial 1](https://youtu.be/7ArmBVF2dCs?si=Qy276cRtaxAo42rM)
+- 📺 [Linear Regression Tutorial 2](https://youtu.be/VmbA0pi2cRQ?si=LuEchXMtqVRNeFIq)
+- 📺 [Linear Regression Tutorial 3](https://youtu.be/8jazNUpO3lQ?si=9SmcCkKKNgrwI9l_)
+- 📺 [Linear Regression Tutorial 4](https://youtu.be/J_LnPL3Qg70?si=xWJ6EZuDe0ZaBULC)
