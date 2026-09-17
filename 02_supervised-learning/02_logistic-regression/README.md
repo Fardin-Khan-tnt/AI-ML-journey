@@ -11,6 +11,7 @@ This is the **second step** — transition from regression to classification pro
 | # | Notebook | Topics |
 |---|---|---|
 | 1 | [01_logistic_regression.ipynb](01_logistic_regression.ipynb) | Binary classification, sigmoid function, decision boundary |
+| 2 | [02_logistic_regression_from_scratch.ipynb](02_logistic_regression_from_scratch.ipynb) | Implement from scratch using NumPy, understand the math |
 
 ---
 
@@ -39,4 +40,7 @@ This is the **second step** — transition from regression to classification pro
 
 ## Video Resources
 
-> *Links to recommended video tutorials will be added here.*
+- 📺 [Logistic Regression From Scratch (Mathematical)](https://youtu.be/S6iuhdYsGC8?si=9QY885HTB3Gl0sHn)
+- 📺 [Logistic Regression Tutorial 1](https://youtu.be/aL21Y-u0SRs?si=OkCQmU_ICNWxdyhp)
+- 📺 [Logistic Regression Tutorial 2](https://youtu.be/zM4VZR0px8E?si=BL6kTCv9huutX3JG)
+- 📺 [Logistic Regression Tutorial 3](https://youtu.be/J5bXOOmkopc?si=ys3KV5FVZrr6cjy0)

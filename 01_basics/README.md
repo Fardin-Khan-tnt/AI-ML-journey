@@ -8,13 +8,15 @@ Start here if you're new — these are prerequisites for everything else in this
 
 ## Notebooks
 
-| # | Topic | Notebook | What You'll Learn |
-|---|---|---|---|
-| 1 | [NumPy](numpy/) | `01_learn_numpy.ipynb` | Arrays, indexing, math, broadcasting, linear algebra |
-| 2 | [Pandas](pandas/) | `01_learn_pandas.ipynb` | DataFrames, selection, filtering, grouping, merging, time series |
-| 3 | [Matplotlib](matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar, histogram, subplots, saving figures |
-| 4 | [EDA](eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow on a real dataset |
-| 5 | [Scikit-learn](scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML workflow — datasets, preprocessing, models, metrics, pipelines |
+| # | Topic | Notebook | What You'll Learn | Time | Difficulty |
+|---|---|---|---|---|---|
+| 1 | [NumPy](numpy/) | `01_learn_numpy.ipynb` | Arrays, indexing, math, broadcasting, linear algebra | 2 hrs | Easy |
+| 2 | [Pandas](pandas/) | `01_learn_pandas.ipynb` | DataFrames, selection, filtering, grouping, merging, time series | 2.5 hrs | Easy |
+| 3 | [Matplotlib](matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar, histogram, subplots, saving figures | 1.5 hrs | Easy |
+| 4 | [EDA](eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow on a real dataset | 2 hrs | Medium |
+| 5 | [Scikit-learn](scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML workflow — datasets, preprocessing, models, metrics, pipelines | 2.5 hrs | Medium |
+
+**Total Time:** ~10.5 hours
 
 ---
 
