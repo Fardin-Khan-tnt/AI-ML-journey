@@ -41,6 +41,6 @@ This is the **second step** — transition from regression to classification pro
 ## Video Resources
 
 - 📺 [Logistic Regression From Scratch (Mathematical)](https://youtu.be/S6iuhdYsGC8?si=9QY885HTB3Gl0sHn)
-- 📺 [Logistic Regression Tutorial 1](https://youtu.be/aL21Y-u0SRs?si=OkCQmU_ICNWxdyhp)
-- 📺 [Logistic Regression Tutorial 2](https://youtu.be/zM4VZR0px8E?si=BL6kTCv9huutX3JG)
-- 📺 [Logistic Regression Tutorial 3](https://youtu.be/J5bXOOmkopc?si=ys3KV5FVZrr6cjy0)
+- 📺 [Logistic Regression Tutorial](https://youtu.be/aL21Y-u0SRs?si=OkCQmU_ICNWxdyhp)
+- 📺 [Logistic Regression (Binary Classification)](https://youtu.be/zM4VZR0px8E?si=BL6kTCv9huutX3JG)
+- 📺 [Logistic Regression (Multiclass Classification)](https://youtu.be/J5bXOOmkopc?si=ys3KV5FVZrr6cjy0)
