@@ -74,6 +74,6 @@ These metrics apply to **all classifiers**: Logistic Regression, KNN, Decision T
 
 ## Video Resources
 
-- 📺 [Classification Metrics Tutorial 1](https://youtu.be/c09drtuCS3c?si=YtJor8orMgow7_6o)
-- 📺 [Classification Metrics Tutorial 2](https://youtu.be/iK-kdhJ-7yI?si=vn5XKiMDADCVXhi3)
-- 📺 [Classification Metrics Tutorial 3](https://youtu.be/pGPiRRfNsr0?si=xhIPV4DeyLXn4Tkw)
+- 📺 [Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1](https://youtu.be/c09drtuCS3c?si=YtJor8orMgow7_6o)
+- 📺 [Precision, Recall and F1 Score | Classification Metrics Part 2](https://youtu.be/iK-kdhJ-7yI?si=vn5XKiMDADCVXhi3)
+- 📺 [Evaluation Metrics For Classification - Full Overview](https://youtu.be/pGPiRRfNsr0?si=xhIPV4DeyLXn4Tkw)
