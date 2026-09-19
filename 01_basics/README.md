@@ -54,11 +54,11 @@ Machine Learning is the science of building systems that learn from data. This s
 - **Overfitting vs Underfitting** — Overfitting means your model memorizes training data but fails on new data. Underfitting means your model is too simple to capture patterns. Learning to balance is key.
 
 **Videos:**
-- 📺 [ML Fundamentals Part 1](https://youtu.be/pptU3bpJojo?si=wSTvhJy-8zWYt4Nx)
-- 📺 [ML Fundamentals Part 2](https://youtu.be/o3DztvnfAJg?si=8hLfFmr7SWKtWaYL)
-- 📺 [Supervised vs Unsupervised](https://youtu.be/TJveOYsK6MY?si=j88mZEm43YEeIdjT)
-- 📺 [Overfitting & Underfitting](https://youtu.be/7Ir7ZDMxsfk?si=dyiZ5YDudiRCU_f4)
-
+- 📺 [Overfitting and Underfitting | Bias and Variance Tradeoff in Machine Learning | Clearly Explained!](https://youtu.be/pptU3bpJojo?si=wSTvhJy-8zWYt4Nx)
+- 📺 [Underfitting & Overfitting - Explained](https://youtu.be/o3DztvnfAJg?si=8hLfFmr7SWKtWaYL)
+- 📺 [Classification and Regression in Machine Learning](https://youtu.be/TJveOYsK6MY?si=j88mZEm43YEeIdjT)
+- 📺 [Regression vs Classification in Machine Learning](https://youtu.be/7Ir7ZDMxsfk?si=dyiZ5YDudiRCU_f4)
+- 📺 [Regression vs Classification in Machine Learning](https://youtu.be/W01tIRP_Rqs?si=aZeRQRSHVB7EpSe7)
 ---
 
 ## Individual Library Resources

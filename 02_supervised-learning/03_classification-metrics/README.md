@@ -74,6 +74,6 @@ These metrics apply to **all classifiers**: Logistic Regression, KNN, Decision T
 
 ## Video Resources
 
-- [StatQuest: Classification Metrics](https://youtu.be/c09drtuCS3c?si=YtJor8orMgow7_6o) — Comprehensive walkthrough of precision, recall, and F1
-- [Confusion Matrix Explained](https://youtu.be/iK-kdhJ-7yI?si=vn5XKiMDADCVXhi3) — Visual breakdown of TP/TN/FP/FN
-- [ROC Curve and AUC](https://youtu.be/pGPiRRfNsr0?si=xhIPV4DeyLXn4Tkw) — Understanding threshold trade-offs
+- 📺 [Classification Metrics Tutorial 1](https://youtu.be/c09drtuCS3c?si=YtJor8orMgow7_6o)
+- 📺 [Classification Metrics Tutorial 2](https://youtu.be/iK-kdhJ-7yI?si=vn5XKiMDADCVXhi3)
+- 📺 [Classification Metrics Tutorial 3](https://youtu.be/pGPiRRfNsr0?si=xhIPV4DeyLXn4Tkw)
