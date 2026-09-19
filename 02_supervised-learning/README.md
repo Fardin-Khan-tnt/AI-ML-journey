@@ -29,10 +29,10 @@ Follow this order as you learn:
 ## Prerequisites
 
 Before starting, make sure you're comfortable with:
-- [NumPy](../01_basics/numpy/)
-- [Pandas](../01_basics/pandas/)
-- [Matplotlib](../01_basics/matplotlib/)
-- [Scikit-learn basics](../01_basics/scikit-learn/)
+- [NumPy](../01_basics/01_numpy/)
+- [Pandas](../01_basics/02_pandas/)
+- [Matplotlib](../01_basics/03_matplotlib/)
+- [Scikit-learn basics](../01_basics/05_scikit-learn/)
 
 ---
 

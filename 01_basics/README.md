@@ -10,11 +10,11 @@ Start here if you're new — these are prerequisites for everything else in this
 
 | # | Topic | Notebook | What You'll Learn | Time | Difficulty |
 |---|---|---|---|---|---|
-| 1 | [NumPy](numpy/) | `01_learn_numpy.ipynb` | Arrays, indexing, math, broadcasting, linear algebra | 2 hrs | Easy |
-| 2 | [Pandas](pandas/) | `01_learn_pandas.ipynb` | DataFrames, selection, filtering, grouping, merging, time series | 2.5 hrs | Easy |
-| 3 | [Matplotlib](matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar, histogram, subplots, saving figures | 1.5 hrs | Easy |
-| 4 | [EDA](eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow on a real dataset | 2 hrs | Medium |
-| 5 | [Scikit-learn](scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML workflow — datasets, preprocessing, models, metrics, pipelines | 2.5 hrs | Medium |
+| 1 | [NumPy](01_numpy/) | `01_learn_numpy.ipynb` | Arrays, indexing, math, broadcasting, linear algebra | 2 hrs | Easy |
+| 2 | [Pandas](02_pandas/) | `01_learn_pandas.ipynb` | DataFrames, selection, filtering, grouping, merging, time series | 2.5 hrs | Easy |
+| 3 | [Matplotlib](03_matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar, histogram, subplots, saving figures | 1.5 hrs | Easy |
+| 4 | [EDA](04_eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow on a real dataset | 2 hrs | Medium |
+| 5 | [Scikit-learn](05_scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML workflow — datasets, preprocessing, models, metrics, pipelines | 2.5 hrs | Medium |
 
 **Total Time:** ~10.5 hours
 
@@ -54,6 +54,8 @@ Machine Learning is the science of building systems that learn from data. This s
 - **Overfitting vs Underfitting** — Overfitting means your model memorizes training data but fails on new data. Underfitting means your model is too simple to capture patterns. Learning to balance is key.
 
 **Videos:**
+- 📺 [Why do we split data into train test and validation sets?](https://youtu.be/dSCFk168vmo?si=REokfpH9I4Ra7bez)
+- 📺 [What is feature, instance and target variable in Machine learning?](https://youtu.be/Ao8RW6ngNkk?si=NoyiuBkLlEa2WE_z)
 - 📺 [Overfitting and Underfitting | Bias and Variance Tradeoff in Machine Learning | Clearly Explained!](https://youtu.be/pptU3bpJojo?si=wSTvhJy-8zWYt4Nx)
 - 📺 [Underfitting & Overfitting - Explained](https://youtu.be/o3DztvnfAJg?si=8hLfFmr7SWKtWaYL)
 - 📺 [Classification and Regression in Machine Learning](https://youtu.be/TJveOYsK6MY?si=j88mZEm43YEeIdjT)
@@ -64,8 +66,8 @@ Machine Learning is the science of building systems that learn from data. This s
 ## Individual Library Resources
 
 See each library's README for dedicated video tutorials:
-- [NumPy](numpy/) — NumPy Full Tutorial
-- [Pandas](pandas/) — Pandas Full & Advanced Tutorials
-- [Matplotlib](matplotlib/) — Matplotlib Basics & Advanced
-- [Scikit-learn](scikit-learn/) — Scikit-learn Full Tutorial
-- [EDA](eda/) — Exploratory Data Analysis (EDA) Tutorial
+- [NumPy](01_numpy/) — NumPy Full Tutorial
+- [Pandas](02_pandas/) — Pandas Full & Advanced Tutorials
+- [Matplotlib](03_matplotlib/) — Matplotlib Basics & Advanced
+- [Scikit-learn](05_scikit-learn/) — Scikit-learn Full Tutorial
+- [EDA](04_eda/) — Exploratory Data Analysis (EDA) Tutorial

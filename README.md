@@ -31,11 +31,11 @@ Foundation libraries every ML practitioner needs.
 
 | Topic | Notebook | Description |
 |---|---|---|
-| [NumPy](01_basics/numpy/) | `01_learn_numpy.ipynb` | Arrays, math operations, broadcasting, linear algebra |
-| [Pandas](01_basics/pandas/) | `01_learn_pandas.ipynb` | DataFrames, data cleaning, grouping, merging |
-| [Matplotlib](01_basics/matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar charts, subplots, customization |
-| [Exploratory Data Analysis (EDA)](01_basics/eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow with a real dataset |
-| [Scikit-learn](01_basics/scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML fundamentals — preprocessing, classification, regression, clustering, pipelines |
+| [NumPy](01_basics/01_numpy/) | `01_learn_numpy.ipynb` | Arrays, math operations, broadcasting, linear algebra |
+| [Pandas](01_basics/02_pandas/) | `01_learn_pandas.ipynb` | DataFrames, data cleaning, grouping, merging |
+| [Matplotlib](01_basics/03_matplotlib/) | `01_learn_matplotlib.ipynb` | Line plots, scatter, bar charts, subplots, customization |
+| [Exploratory Data Analysis (EDA)](01_basics/04_eda/) | `01_learn_eda.ipynb` | Exploratory Data Analysis workflow with a real dataset |
+| [Scikit-learn](01_basics/05_scikit-learn/) | `01_learn_scikit-learn.ipynb` | ML fundamentals — preprocessing, classification, regression, clustering, pipelines |
 
 ---
 
