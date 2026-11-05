@@ -15,6 +15,7 @@ Accuracy alone can be misleading, especially on imbalanced datasets. This sectio
 ## What You'll Learn
 
 - **Binary Classification**: Confusion matrix (TP, TN, FP, FN), precision, recall, F1-score, why accuracy is misleading
+- **Extended Metric Family**: Specificity (TNR), NPV, FPR, FNR, FDR, FOR — the full confusion matrix metric family
 - **Multiclass Classification**: N×N confusion matrix, per-class metrics, and averaging strategies (macro, weighted, micro)
 - **Threshold Tuning**: ROC curve and AUC — how metrics change as you adjust decision thresholds
 - **Practical Skills**: Using `classification_report()` and choosing metrics based on problem constraints
@@ -25,7 +26,7 @@ Accuracy alone can be misleading, especially on imbalanced datasets. This sectio
 
 | Notebook | Topic | Time | Difficulty |
 |----------|-------|------|------------|
-| [01_binary_classification_metrics.ipynb](01_binary_classification_metrics.ipynb) | TP/TN/FP/FN, accuracy, precision, recall, F1, ROC/AUC | 1.5 hrs | Medium |
+| [01_binary_classification_metrics.ipynb](01_binary_classification_metrics.ipynb) | TP/TN/FP/FN, accuracy, precision, recall, F1, specificity, full metric family, ROC/AUC | 1.5 hrs | Medium |
 | [02_multiclass_classification_metrics.ipynb](02_multiclass_classification_metrics.ipynb) | N×N confusion matrix, averaging strategies (macro/weighted/micro) | 1 hr | Medium |
 
 **Total:** ~2.5 hours
@@ -59,6 +60,7 @@ These metrics apply to **all classifiers**: Logistic Regression, KNN, Decision T
 | **Accuracy** | Balanced datasets only. Fails on imbalanced data. |
 | **Precision** | When false positives are costly (e.g., spam detection — flag too much and users hate you) |
 | **Recall** | When false negatives are costly (e.g., disease screening — missing a case is dangerous) |
+| **Specificity (TNR)** | When you need to know how well the model rules out negatives (e.g., clearing healthy patients) |
 | **F1** | When you care equally about both false positives and false negatives |
 | **ROC-AUC** | When you want to evaluate a model across all thresholds, not just one |
 | **Macro Average** | When all classes are equally important, regardless of sample count |
