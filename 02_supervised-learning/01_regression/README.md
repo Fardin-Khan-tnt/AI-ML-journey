@@ -1,6 +1,6 @@
 # 01. Regression
 
-Predict continuous numerical values using linear regression models. This is the **first step** in supervised learning.
+Predict continuous numerical values using regression models. This is the **first step** in supervised learning.
 
 ---
 
@@ -14,16 +14,20 @@ Follow this order:
 | 2 | [Multiple Linear Regression](02_multiple_linear_regression.ipynb) | `02_multiple_linear_regression.ipynb` | Multiple features, planes in higher dimensions, coefficients |
 | 3 | [Regression from Scratch](03_regression_from_scratch.ipynb) | `03_regression_from_scratch.ipynb` | Implement OLS & Normal Equation from NumPy — understand the math |
 | 4 | [Regression Metrics](04_regression_metrics.ipynb) | `04_regression_metrics.ipynb` | **Evaluation:** MAE, RMSE, R², adjusted R², residual plots |
+| 5 | [Ridge Regression](05_ridge_regression.ipynb) | `05_ridge_regression.ipynb` | L2 regularization — shrinks coefficients to reduce overfitting |
+| 6 | [Lasso Regression](06_lasso_regression.ipynb) | `06_lasso_regression.ipynb` | L1 regularization — shrinks coefficients & performs feature selection |
+| 7 | [Elastic Net Regression](07_elasticnet_regression.ipynb) | `07_elasticnet_regression.ipynb` | Combines L1 + L2 — best of both Ridge and Lasso |
 
 ---
 
-## Why 4 Notebooks (No Duplication)?
+## Why 7 Notebooks (No Duplication)?
 
 Each notebook has a **specific focus** with minimal overlap:
 
 - **01 & 02:** Building & fitting models (no metrics)
 - **03:** Understanding the underlying math (from-scratch implementation)
 - **04:** Comprehensive evaluation guide used by all models
+- **05, 06, 07:** Regularization techniques — each adds a different penalty to prevent overfitting
 
 This keeps each notebook focused and learnable in ~10-15 minutes, rather than one bloated notebook.
 
@@ -38,6 +42,9 @@ This keeps each notebook focused and learnable in ~10-15 minutes, rather than on
 | Normal Equation & OLS derivation | Notebook 3 |
 | MAE, RMSE, R², Adjusted R² | Notebook 4 |
 | Residual analysis & diagnostics | Notebook 4 |
+| L2 regularization (Ridge penalty) | Notebook 5 |
+| L1 regularization (feature selection) | Notebook 6 |
+| L1 + L2 combined (Elastic Net) | Notebook 7 |
 
 ---
 
@@ -54,7 +61,7 @@ This keeps each notebook focused and learnable in ~10-15 minutes, rather than on
 ## Quick Start
 
 ```python
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression, Ridge, Lasso, ElasticNet
 from sklearn.model_selection import train_test_split
 
 # 1. Prepare data
@@ -62,7 +69,7 @@ X = df[['feature1', 'feature2']]
 y = df['target']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
-# 2. Fit model
+# 2. Fit model (swap LinearRegression for Ridge/Lasso/ElasticNet)
 lr = LinearRegression()
 lr.fit(X_train, y_train)
 
